@@ -1,0 +1,1 @@
+print("utsefsef".split(all))
